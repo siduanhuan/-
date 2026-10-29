@@ -1,0 +1,50 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Safe zone is centered in [21, 87] -->
+    
+    <!-- Editorial Fine Calendar Orbit Ring -->
+    <path
+        android:strokeColor="#33FFFFFF"
+        android:strokeWidth="1.2"
+        android:fillColor="#00000000"
+        android:pathData="M54,28 A26,26 0 1,1 53.99,28 Z" />
+
+    <!-- Pure White Minimalist Celestial Crescent Moon (Lunar & Solar Harmony) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 C67.25,30 78,40.75 78,54 C78,67.25 67.25,78 54,78 C46.12,78 39.19,74.2 34.87,68.35 C38.16,70.13 41.93,71.14 45.94,71.14 C59.19,71.14 69.94,60.39 69.94,47.14 C69.94,39.7 66.56,33.05 61.29,28.6 C58.98,29.51 56.55,30 54,30 Z" />
+
+    <!-- Architectural Minimalist Seal Strokes for '逢' (Encounter / Time) -->
+    <!-- Horizontal balance beam -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="square"
+        android:fillColor="#00000000"
+        android:pathData="M40,51 L56,51" />
+
+    <!-- Vertical axis sundial gnomon -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="square"
+        android:fillColor="#00000000"
+        android:pathData="M48,42 L48,63" />
+
+    <!-- Flowing pathway swoop / 走之底 minimal gesture -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M37,45 C37,49 42,49 42,55 C42,61 36,63 49,63" />
+
+    <!-- Signature Editorial Vermillion Red Seal Point (朱砂印记) -->
+    <path
+        android:fillColor="#E11D48"
+        android:pathData="M58,40 A3.2,3.2 0 1,1 57.99,40 Z" />
+</vector>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">逢时</string>
+    <string name="slogan">极简东方岁时吉日与倒数纪念</string>
+    <string name="tab_all">全部</string>
+    <string name="tab_pinned">置顶</string>
+    <string name="calendar_lunar">农历</string>
+    <string name="calendar_solar">公历</string>
+    <string name="days_left">天将至</string>
+    <string name="days_past">天已过</string>
+</resources>

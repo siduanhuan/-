@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">逢時</string>
+    <string name="slogan">極簡東方歲時吉日與倒數紀念</string>
+    <string name="tab_all">全部</string>
+    <string name="tab_pinned">置頂</string>
+    <string name="calendar_lunar">農曆</string>
+    <string name="calendar_solar">國曆/公曆</string>
+    <string name="days_left">天將至</string>
+    <string name="days_past">天已過</string>
+</resources>

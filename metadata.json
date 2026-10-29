@@ -1,0 +1,6 @@
+{
+  "name": "逢时",
+  "description": "极简东方美学吉日、纪念日与生日倒数记录",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
